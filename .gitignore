@@ -34,3 +34,73 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 # Pods/
+Example/ASNetwork.xcworkspace/contents.xcworkspacedata
+Example/Pods/Manifest.lock
+Example/Pods/AFNetworking/LICENSE
+Example/Pods/AFNetworking/README.md
+Example/Pods/AFNetworking/AFNetworking/AFCompatibilityMacros.h
+Example/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+Example/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+Example/Pods/AFNetworking/AFNetworking/AFNetworking.h
+Example/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+Example/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+Example/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+Example/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+Example/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+Example/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+Example/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+Example/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+Example/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+Example/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/WKWebView+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/WKWebView+AFNetworking.m
+Example/Pods/Local Podspecs/ASNetwork.podspec.json
+Example/Pods/Pods.xcodeproj/project.pbxproj
+Example/Pods/Target Support Files/AFNetworking/AFNetworking-dummy.m
+Example/Pods/Target Support Files/AFNetworking/AFNetworking-Info.plist
+Example/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch
+Example/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h
+Example/Pods/Target Support Files/AFNetworking/AFNetworking.debug.xcconfig
+Example/Pods/Target Support Files/AFNetworking/AFNetworking.modulemap
+Example/Pods/Target Support Files/AFNetworking/AFNetworking.release.xcconfig
+Example/Pods/Target Support Files/ASNetwork/ASNetwork-dummy.m
+Example/Pods/Target Support Files/ASNetwork/ASNetwork-Info.plist
+Example/Pods/Target Support Files/ASNetwork/ASNetwork-prefix.pch
+Example/Pods/Target Support Files/ASNetwork/ASNetwork-umbrella.h
+Example/Pods/Target Support Files/ASNetwork/ASNetwork.debug.xcconfig
+Example/Pods/Target Support Files/ASNetwork/ASNetwork.modulemap
+Example/Pods/Target Support Files/ASNetwork/ASNetwork.release.xcconfig
+Example/Pods/Target Support Files/Pods-ASNetwork_Example/Pods-ASNetwork_Example-acknowledgements.markdown
+Example/Pods/Target Support Files/Pods-ASNetwork_Example/Pods-ASNetwork_Example-acknowledgements.plist
+Example/Pods/Target Support Files/Pods-ASNetwork_Example/Pods-ASNetwork_Example-dummy.m
+Example/Pods/Target Support Files/Pods-ASNetwork_Example/Pods-ASNetwork_Example-frameworks.sh
+Example/Pods/Target Support Files/Pods-ASNetwork_Example/Pods-ASNetwork_Example-Info.plist
+Example/Pods/Target Support Files/Pods-ASNetwork_Example/Pods-ASNetwork_Example-umbrella.h
+Example/Pods/Target Support Files/Pods-ASNetwork_Example/Pods-ASNetwork_Example.debug.xcconfig
+Example/Pods/Target Support Files/Pods-ASNetwork_Example/Pods-ASNetwork_Example.modulemap
+Example/Pods/Target Support Files/Pods-ASNetwork_Example/Pods-ASNetwork_Example.release.xcconfig
+Example/Pods/Target Support Files/Pods-ASNetwork_Tests/Pods-ASNetwork_Tests-acknowledgements.markdown
+Example/Pods/Target Support Files/Pods-ASNetwork_Tests/Pods-ASNetwork_Tests-acknowledgements.plist
+Example/Pods/Target Support Files/Pods-ASNetwork_Tests/Pods-ASNetwork_Tests-dummy.m
+Example/Pods/Target Support Files/Pods-ASNetwork_Tests/Pods-ASNetwork_Tests-Info.plist
+Example/Pods/Target Support Files/Pods-ASNetwork_Tests/Pods-ASNetwork_Tests-umbrella.h
+Example/Pods/Target Support Files/Pods-ASNetwork_Tests/Pods-ASNetwork_Tests.debug.xcconfig
+Example/Pods/Target Support Files/Pods-ASNetwork_Tests/Pods-ASNetwork_Tests.modulemap
+Example/Pods/Target Support Files/Pods-ASNetwork_Tests/Pods-ASNetwork_Tests.release.xcconfig
