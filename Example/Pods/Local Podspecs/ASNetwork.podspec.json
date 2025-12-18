@@ -1,7 +1,7 @@
 {
   "name": "ASNetwork",
-  "version": "0.1.0",
-  "summary": "A short description of ASNetwork.",
+  "version": "0.1.1",
+  "summary": "基础网络组件",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/TiffanyHebe/ASNetwork",
   "license": {
@@ -12,11 +12,16 @@
     "TiffanyHebe": "lx4ever@163.com"
   },
   "source": {
-    "git": "https://github.com/TiffanyHebe/ASNetwork.git",
-    "tag": "0.1.0"
+    "git": "git@github.com:TiffanyHebe/ASNetwork.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "ASNetwork/Classes/**/*"
+  "source_files": "ASNetwork/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
 }

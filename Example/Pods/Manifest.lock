@@ -1,15 +1,36 @@
 PODS:
-  - ASNetwork (0.1.0)
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - ASNetwork (0.1.1):
+    - AFNetworking
 
 DEPENDENCIES:
   - ASNetwork (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
 
 EXTERNAL SOURCES:
   ASNetwork:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ASNetwork: e15e05a96e23d043bd097a6c1fdadb9bca257c37
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
+  ASNetwork: 8bc2c8ec56403188330aa2657d6cbca943fc83af
 
 PODFILE CHECKSUM: 1b6bec181326b2fa3138e5554bc55f21e8940529
 
