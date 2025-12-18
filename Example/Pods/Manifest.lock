@@ -1,0 +1,16 @@
+PODS:
+  - ASNetwork (0.1.0)
+
+DEPENDENCIES:
+  - ASNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  ASNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASNetwork: e15e05a96e23d043bd097a6c1fdadb9bca257c37
+
+PODFILE CHECKSUM: 1b6bec181326b2fa3138e5554bc55f21e8940529
+
+COCOAPODS: 1.16.2

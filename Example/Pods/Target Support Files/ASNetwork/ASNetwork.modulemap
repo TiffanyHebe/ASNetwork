@@ -1,0 +1,6 @@
+framework module ASNetwork {
+  umbrella header "ASNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

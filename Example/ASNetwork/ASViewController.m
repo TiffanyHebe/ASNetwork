@@ -7,7 +7,7 @@
 //
 
 #import "ASViewController.h"
-
+#import "ASTest.h"
 @interface ASViewController ()
 
 @end
@@ -17,6 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [ASTest test];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
